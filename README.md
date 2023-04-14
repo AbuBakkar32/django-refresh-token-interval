@@ -2,7 +2,7 @@
 
 ## Installation guide
 
-git clone https://github.com/divanov11/refresh-token-interval
+git clone https://github.com/AbuBakkar32/django-refresh-token-interval/
 
 ## Setup Backend
 1. cd refresh-token-interval/backend
